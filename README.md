@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=Hi,%20I'm%20Lambert%20Luo&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi,%20I'm%20Lambert%20Luo&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Header" />
   
   <h3>Aspiring Mechanical Engineer @ UC Berkeley 🐻 | Hardware-Software Systems | Robotics</h3>
   
@@ -7,7 +7,7 @@
     <b> 🛠️ Building the bridge between digital code and the physical world.</b>
   </p>
 
-  <a href="https://www.linkedin.com/in/your_linkedin_id" target="_blank">
+  <a href="https://www.linkedin.com/in/yiran-luo-369655376" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
   </a>
 </div>
@@ -44,7 +44,7 @@ I enjoy using modern tools to solve traditional engineering problems.
   <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" />
   <img src="https://img.shields.io/badge/Embedded_Systems-333333?style=flat-square&logo=stmicroelectronics&logoColor=white" />
   <br/>
-  <img src="https://img.shields.io/badge/Robotics-22314E?style=flat-square&logo=probot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Robotics-22314E?style=flat-square&logo=ros&logoColor=white" />
   <img src="https://img.shields.io/badge/CFD-0077B5?style=flat-square&logo=openfoam&logoColor=white" />
   <img src="https://img.shields.io/badge/IoT-00B0F0?style=flat-square&logo=smartthings&logoColor=white" />
 </p>
