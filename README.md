@@ -84,7 +84,7 @@ I enjoy using modern tools to solve traditional engineering problems.
   <table style="border: none; width: 100%;">
     <tr style="border: none;">
       <td width="50%" align="center" style="border: none;">
-        <img src="https://github-readme-stats.vercel.app/api?username=luolambert&show_icons=true&theme=gotham&hide_border=true&count_private=true&layout=compact" alt="Lambert's Stats" style="width: 100%;" />
+        <img src="https://github-readme-stats.vercel.app/api?username=luolambert&show_icons=true&theme=gotham&hide_border=true&count_private=true&layout=compact&include_all_commits=true&count_private=true" alt="Lambert's Stats" style="width: 100%;" />
       </td>
       <td width="50%" align="center" style="border: none;">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luolambert&layout=compact&theme=gotham&hide_border=true" alt="Top Languages" style="width: 100%;" />
