@@ -31,7 +31,6 @@ While my major is **Mechanical Engineering (ME)**, I believe future engineers ne
 I enjoy using modern tools to solve traditional engineering problems.
 
 **💻 Languages & Typesetting**
-
 <p>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -42,7 +41,6 @@ I enjoy using modern tools to solve traditional engineering problems.
 </p>
 
 **⚙️ Hardware, IoT & Robotics**
-
 <p>
   <img src="https://img.shields.io/badge/SolidWorks-D22128?style=flat-square&logo=solidworks&logoColor=white" />
   <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" />
@@ -55,7 +53,6 @@ I enjoy using modern tools to solve traditional engineering problems.
 </p>
 
 **🌐 Dev, Cloud & Design**
-
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
@@ -69,7 +66,6 @@ I enjoy using modern tools to solve traditional engineering problems.
 </p>
 
 **🤖 AI & Automated Workflows**
-
 <p>
   <img src="https://img.shields.io/badge/Google_Antigravity-4285F4?style=flat-square&logo=google&logoColor=white" />
   <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white" />
@@ -85,20 +81,21 @@ I enjoy using modern tools to solve traditional engineering problems.
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=luolambert&theme=gotham&hide_border=true" alt="Streak Stats" style="max-width: 800px; width: 100%;" />
-  <br/>
-  
-  <table style="border: none;">
+  <table style="border: none; width: 100%;">
     <tr style="border: none;">
-      <td width="50%" style="border: none;">
-        <img src="https://github-readme-stats.vercel.app/api?username=luolambert&show_icons=true&theme=gotham&hide_border=true&count_private=true&layout=compact" alt="Lambert's Stats" style="width:100%;" />
+      <td width="33%" align="center" style="border: none;">
+        <img src="https://github-readme-stats.vercel.app/api?username=luolambert&show_icons=true&theme=gotham&hide_border=true&count_private=true&layout=compact" alt="Lambert's Stats" style="width: 100%;" />
       </td>
-      <td width="50%" style="border: none;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luolambert&layout=compact&theme=gotham&hide_border=true" alt="Top Languages" style="width:100%;" />
+      <td width="33%" align="center" style="border: none;">
+        <img src="https://nirzak-streak-stats.vercel.app/?user=luolambert&theme=gotham&hide_border=true" alt="Streak Stats" style="width: 100%;" />
+      </td>
+      <td width="33%" align="center" style="border: none;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luolambert&layout=compact&theme=gotham&hide_border=true" alt="Top Languages" style="width: 100%;" />
       </td>
     </tr>
   </table>
 
+  <br/>
   <img src="https://github.com/luolambert/luolambert/blob/output/github-contribution-grid-snake.svg" alt="snake contribution" style="width:100%; max-width:800px;" />
 </div>
 
