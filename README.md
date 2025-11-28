@@ -29,37 +29,49 @@ While my major is **Mechanical Engineering (ME)**, I believe future engineers ne
 ### 🛠️ Tech Stack
 
 I enjoy using modern tools to solve traditional engineering problems.
-**💻 Programming Languages**
+
+**💻 Languages & Typesetting**
 
 <p>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white" />
+  <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 </p>
 
-**⚙️ Hardware & Engineering**
+**⚙️ Hardware, IoT & Robotics**
 
 <p>
   <img src="https://img.shields.io/badge/SolidWorks-D22128?style=flat-square&logo=solidworks&logoColor=white" />
   <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/Embedded_Systems-333333?style=flat-square&logo=stmicroelectronics&logoColor=white" />
+  <img src="https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=flat-square&logo=Raspberry-Pi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Home_Assistant-41BDF5?style=flat-square&logo=home-assistant&logoColor=white" />
   <br/>
-  <img src="https://img.shields.io/badge/Robotics-22314E?style=flat-square&logo=ros&logoColor=white" />
+  <img src="https://img.shields.io/badge/Embedded_Systems-333333?style=flat-square&logo=stmicroelectronics&logoColor=white" />
+  <img src="https://img.shields.io/badge/Robotics_ROS-22314E?style=flat-square&logo=ros&logoColor=white" />
   <img src="https://img.shields.io/badge/CFD-0077B5?style=flat-square&logo=openfoam&logoColor=white" />
-  <img src="https://img.shields.io/badge/IoT-00B0F0?style=flat-square&logo=smartthings&logoColor=white" />
 </p>
 
-**🌐 Web Development**
+**🌐 Dev, Cloud & Design**
 
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=Canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=flat-square&logo=adobe%20photoshop&logoColor=white" />
 </p>
 
 **🤖 AI & Automated Workflows**
 
 <p>
-  <img src="https://img.shields.io/badge/Antigravity-4285F4?style=flat-square&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Antigravity-4285F4?style=flat-square&logo=google&logoColor=white" />
   <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white" />
   <img src="https://img.shields.io/badge/n8n-FF6B6B?style=flat-square&logo=n8n&logoColor=white" />
   <br/>
@@ -72,18 +84,21 @@ I enjoy using modern tools to solve traditional engineering problems.
 
 ### 📊 GitHub Stats
 
-<table align="center" style="border: none;">
-  <tr style="border: none;">
-    <td width="50%" style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api?username=luolambert&show_icons=true&theme=gotham&hide_border=true&count_private=true&layout=compact" alt="Lambert's Stats" style="width:100%;" />
-    </td>
-    <td width="50%" style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luolambert&layout=compact&theme=gotham&hide_border=true" alt="Top Languages" style="width:100%;" />
-    </td>
-  </tr>
-</table>
-
 <div align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=luolambert&theme=gotham&hide_border=true" alt="Streak Stats" style="max-width: 800px; width: 100%;" />
+  <br/>
+  
+  <table style="border: none;">
+    <tr style="border: none;">
+      <td width="50%" style="border: none;">
+        <img src="https://github-readme-stats.vercel.app/api?username=luolambert&show_icons=true&theme=gotham&hide_border=true&count_private=true&layout=compact" alt="Lambert's Stats" style="width:100%;" />
+      </td>
+      <td width="50%" style="border: none;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luolambert&layout=compact&theme=gotham&hide_border=true" alt="Top Languages" style="width:100%;" />
+      </td>
+    </tr>
+  </table>
+
   <img src="https://github.com/luolambert/luolambert/blob/output/github-contribution-grid-snake.svg" alt="snake contribution" style="width:100%; max-width:800px;" />
 </div>
 
