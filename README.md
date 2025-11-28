@@ -96,7 +96,7 @@ I enjoy using modern tools to solve traditional engineering problems.
   </table>
 
   <br/>
-  <img src="https://github.com/luolambert/luolambert/blob/output/github-contribution-grid-snake.svg" alt="snake contribution" style="width:100%; max-width:800px;" />
+  <img src="https://github.com/luolambert/luolambert/blob/output/github-snake-dark.svg" alt="snake contribution" style="width:100%; max-width:800px;" />
 </div>
 
 ---
