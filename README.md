@@ -88,8 +88,7 @@ I enjoy using modern tools to solve traditional engineering problems.
 
 ### 📊 GitHub Stats
 
-<div align="left">
-  &emsp;&emsp;&emsp;&emsp;
+<div align="center">
   <img src="https://github-readme-stats-luolambert.vercel.app/api?username=luolambert&show_icons=true&theme=gotham&count_private=true&layout=compact&include_all_commits=true&icon_color=F8D866&border_color=3D444D" width="44%" alt="Lambert's Stats" />
   <img src="https://github-readme-stats-luolambert.vercel.app/api/top-langs/?username=luolambert&layout=compact&theme=gotham&border_color=3D444D" width="39.5%" alt="Top Languages" />
 </div>
