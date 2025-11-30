@@ -78,19 +78,21 @@ I enjoy using modern tools to solve traditional engineering problems.
 
 ---
 
+### 🏆 My Featured Project
+
+<a href="https://github.com/luolambert/BerkeleyWhereTo">
+  <img src="https://github-readme-stats-luolambert.vercel.app/api/pin?username=luolambert&repo=BerkeleyWhereTo&theme=gotham&border_color=3D444D&icon_color=F8D866" alt="BerkeleyWhereTo" />
+</a>
+
+---
+
 ### 📊 GitHub Stats
 
-<div align="center">
-  <table style="border: none; width: 100%;">
-    <tr style="border: none;">
-      <td width="50%" align="center" style="border: none;">
-        <img src="https://github-readme-stats-luolambert.vercel.app/api?username=luolambert&show_icons=true&theme=gotham&hide_border=true&count_private=true&layout=compact&include_all_commits=true&icon_color=F8D866" alt="Lambert's Stats" style="width: 100%;" />
-      </td>
-      <td width="50%" align="center" style="border: none;">
-        <img src="https://github-readme-stats-luolambert.vercel.app/api/top-langs/?username=luolambert&layout=compact&theme=gotham&hide_border=true" alt="Top Languages" style="width: 100%;" />
-      </td>
-    </tr>
-  </table>
+<div align="left">
+  &emsp;&emsp;&emsp;&emsp;&emsp;
+  <img src="https://github-readme-stats-luolambert.vercel.app/api?username=luolambert&show_icons=true&theme=gotham&count_private=true&layout=compact&include_all_commits=true&icon_color=F8D866&border_color=3D444D" width="44%" alt="Lambert's Stats" />
+  <img src="https://github-readme-stats-luolambert.vercel.app/api/top-langs/?username=luolambert&layout=compact&theme=gotham&border_color=3D444D" width="39.5%" alt="Top Languages" />
+</div>
   
   <img src="https://raw.githubusercontent.com/luolambert/luolambert/output/github-snake-dark.svg" alt="snake contribution" style="width:100%; max-width:800px;" />
 </div>
